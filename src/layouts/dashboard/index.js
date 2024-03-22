@@ -49,7 +49,7 @@ function Dashboard() {
                 color="dark"
                 icon="weekend"
                 title="Test1"
-                count={2}
+                count={1}
                 percentage={{
                   color: "success",
                   amount: "+01%",
