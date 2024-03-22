@@ -179,8 +179,6 @@ function Sidenav({ color, brand, brandName, routes, ...rest }) {
         }
       />
       <List>{renderRoutes}</List>
-      <MDBox p={2} mt="auto">
-      </MDBox>
     </SidenavRoot>
   );
 }
