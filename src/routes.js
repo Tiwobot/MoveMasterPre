@@ -1,4 +1,3 @@
-
 /** 
   All of the routes for the Material Dashboard 2 React are added here,
   You can add a new route, customize the routes and delete the routes here.
@@ -59,14 +58,6 @@ const routes = [
     route: "/billing",
     component: <Billing />,
   },
- /* {
-    type: "collapse",
-    name: "RTL",
-    key: "rtl",
-    icon: <Icon fontSize="small">format_textdirection_r_to_l</Icon>,
-    route: "/rtl",
-    component: <RTL />,
-  }, */
   {
     type: "collapse",
     name: "Notifications",
