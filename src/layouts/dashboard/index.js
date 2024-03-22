@@ -63,7 +63,7 @@ function Dashboard() {
               <ComplexStatisticsCard
                 icon="leaderboard"
                 title="Test2"
-                count="3"
+                count="2"
                 percentage={{
                   color: "success",
                   amount: "+02%",
