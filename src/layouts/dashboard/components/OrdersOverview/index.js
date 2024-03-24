@@ -33,8 +33,8 @@ function OrdersOverview() {
         <TimelineItem
           color="success"
           icon="notifications"
-          title="$2400, Design changes"
-          dateTime="22 DEC 7:20 PM"
+          title="title1test"
+          dateTime="dateTimetest1"
         />
         <TimelineItem
           color="error"
