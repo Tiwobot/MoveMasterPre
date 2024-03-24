@@ -95,7 +95,7 @@ function Footer({ light }) {
                   fontWeight="regular"
                   color={light ? "white" : "dark"}
                 >
-                test footer link 4
+                  test footer link 4
                 </MDTypography>
               </Link>
             </MDBox>
