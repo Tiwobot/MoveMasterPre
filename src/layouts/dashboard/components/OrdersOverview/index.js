@@ -39,8 +39,8 @@ function OrdersOverview() {
         <TimelineItem
           color="error"
           icon="inventory_2"
-          title="New order #1832412"
-          dateTime="21 DEC 11 PM"
+          title="title2test"
+          dateTime="dateTimetest2"
         />
         <TimelineItem
           color="info"
