@@ -30,37 +30,11 @@ function OrdersOverview() {
         </MDBox>
       </MDBox>
       <MDBox p={2}>
-        <TimelineItem
-          color="success"
-          icon="notifications"
-          title="title1test"
-          dateTime="dateTimetest1"
-        />
-        <TimelineItem
-          color="error"
-          icon="inventory_2"
-          title="title2test"
-          dateTime="dateTimetest2"
-        />
-        <TimelineItem
-          color="info"
-          icon="shopping_cart"
-          title="title3test"
-          dateTime="dateTimetest3"
-        />
-        <TimelineItem
-          color="warning"
-          icon="payment"
-          title="title4test"
-          dateTime="dateTimetest4"
-        />
-        <TimelineItem
-          color="primary"
-          icon="vpn_key"
-          title="title5test"
-          dateTime="dateTimetest5"
-          lastItem
-        />
+        <TimelineItem color="success" icon="notifications" title="title1test" dateTime="dateTimetest1"/>
+        <TimelineItem color="error" icon="inventory_2" title="title2test" dateTime="dateTimetest2"/>
+        <TimelineItem color="info" icon="shopping_cart" title="title3test" dateTime="dateTimetest3"/>
+        <TimelineItem color="warning" icon="payment" title="title4test" dateTime="dateTimetest4"/>
+        <TimelineItem color="primary" icon="vpn_key" title="title5test" dateTime="dateTimetest5"/>
       </MDBox>
     </Card>
   );
